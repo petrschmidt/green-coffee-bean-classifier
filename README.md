@@ -1,4 +1,4 @@
-# Green Coffee Beans Classifier
+# Green Coffee Bean Classifier
 KSMAP Semester Project, University of Hradec Kralove (author: Petr Schmidt)
 
 
